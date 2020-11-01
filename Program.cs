@@ -16,7 +16,7 @@ namespace ESY_XEREIS_TO_TAIRI_SOU
             int milliseconds = 5000;
             decimal pososto = 0;
             decimal epitisekato = 0;
-            Console.WriteLine("KALWS HRTHES STO GNWRISE TO TAIRI SOU!!!!TO PAIXNIDI POU EITE XVRIZEI ZEYGARIA EITE TA PANTREVEI!!!KALH SOY TYXH THA THN XREIASTEIS!!!");
+            Console.WriteLine("asasKALWS HRTHES STO GNWRISE TO TAIRI SOU!!!!TO PAIXNIDI POU EITE XVRIZEI ZEYGARIA EITE TA PANTREVEI!!!KALH SOY TYXH THA THN XREIASTEIS!!!");
             Thread.Sleep(milliseconds);
             Console.Write("(simantiki pliroforia:to paixnidi den analamvanei tin euthini ama eseis xwrisete)");
             Thread.Sleep(milliseconds);
